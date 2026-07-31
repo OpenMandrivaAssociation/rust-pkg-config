@@ -5,8 +5,8 @@
 %global crate pkg-config
 
 Name:           rust-%{crate}
-Version:        0.3.17
-Release:        2%{?dist}
+Version:        0.3.33
+Release:        1%{?dist}
 Summary:        Library to run the pkg-config system tool
 
 # Upstream license specification: MIT/Apache-2.0
